@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Mete Atamel</h1>
 <h3 align="center">I’m a Software Engineer and a Developer Advocate with 20+ years of experience in tech. Currently, I work in the Developer Relations team at Google in London. I build tools, demos, tutorials, and give talks to educate and help developers to be successful on Google Cloud. As a regular speaker at tech conferences, I have spoken over 410+ events since 2016 on modern application development topics such as Kubernetes, Istio, Knative, serverless, event-driven architectures, microservice orchestration, and most recently Generative AI. Prior to my current role, I was a Software Engineer/Architect/Tech Lead at Nokia, EMC, Adobe, Skype, and Microsoft building various client and server technologies, resulting in multiple patents.</h3>
 
